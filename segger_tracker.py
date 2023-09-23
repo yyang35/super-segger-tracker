@@ -158,8 +158,8 @@ class SeggerTracker:
         plt.figure(figsize=(25.63, 21.87))
         plt.imshow(skeleton, cmap='Greys')
 
-        plt.xlim(0,2560)
-        plt.ylim(0,2160)
+        plt.xlim(0, 2560)
+        plt.ylim(0, 2160)
 
         plt.gca().invert_yaxis()
 
