@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../super-segger-toolkit/superseggertoolkit"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
